@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp-customCollapsingActionBar/app/src/main/res/layout/events_page.xml" value="0.1" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp/app/src/main/res/drawable/count_background.xml" value="0.1815" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.1815" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.1815" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1815" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1815" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1815" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp/app/src/main/res/drawable/round_cancel_btn.xml" value="0.1815" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp/app/src/main/res/drawable/time_background.xml" value="0.1815" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp/app/src/main/res/layout/activity_events_main_page.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp/app/src/main/res/layout/event_card.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/renat/OneDrive/Documents/Coding Projects/eventsApp/app/src/main/res/layout/events_page.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
